@@ -1,6 +1,6 @@
 # Identify Fraud from Enron Email
 
-This is the working-draft repository for a Udacity Data Analyst Nanodegree machine learning project: using the public Enron financial and email dataset to identify persons of interest (POIs) in the Enron fraud case. It contains the in-progress notebook and script iterations from that project.
+This is the working-draft repository for a Udacity Data Analyst Nanodegree machine learning project: using the public Enron financial and email dataset to identify persons of interest (POIs) in the Enron fraud case. It contains the in-progress script iterations from that project.
 
 This project was superseded by the finished, cleaned-up version at [Identify-Fraud-from-Enron-Email_Final](https://github.com/rfhickey/Identify-Fraud-from-Enron-Email_Final). That repository has the final feature selection, classifier, and write-up; this one is kept for history only.
 
